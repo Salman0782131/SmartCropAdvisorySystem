@@ -1,7 +1,7 @@
 # SmartCropAdvisorySystem
 # 🌱 SmartCrop
 
-**SmartCrop** is an intelligent agriculture-based application designed to help farmers make better crop-related decisions using **machine learning, environmental data, and smart recommendations**.
+**SmartCrop**   is an intelligent agriculture-based application designed to help farmers make better crop-related decisions using **machine learning, environmental data, and smart recommendations**.
 
 The system analyzes relevant agricultural parameters and provides suitable crop recommendations, helping improve productivity and reduce the risk of choosing unsuitable crops.
 
